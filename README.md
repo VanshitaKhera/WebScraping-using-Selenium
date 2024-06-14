@@ -6,27 +6,27 @@ This project focuses on automating the extraction of Amazon product data using S
 
 
 ## Features
-Automated navigation of Amazon product pages
-Extraction of product names, prices, ratings, and reviews
-Data storage in a structured format (e.g., CSV, Excel)
-Simplified data collection process
+- Automated navigation of Amazon product pages
+- Extraction of product names, prices, ratings, and reviews
+- Data storage in a structured format (e.g., CSV, Excel)
+- Simplified data collection process
 
 
 
 ## Skills Utilized
-Python
-Web Scraping Framework (Selenium)
-Data Extraction
-Microsoft Excel
-Document Object Model (DOM)
+- Python
+- Web Scraping Framework (Selenium)
+- Data Extraction
+- Microsoft Excel
+- Document Object Model (DOM)
 
 
 
 ## Prerequisites
-Python 3.x
-Selenium
-Webdriver (e.g., ChromeDriver)
-pandas
+- Python 3.x
+- Selenium
+- Webdriver (e.g., ChromeDriver)
+- pandas
 
 ## License
 This project is licensed under the MIT License.
