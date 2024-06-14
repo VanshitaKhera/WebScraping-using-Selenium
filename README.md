@@ -1,11 +1,11 @@
 # Web-Scraping-using-Selenium
 
-# Project Overview
+## Project Overview
 This project focuses on automating the extraction of Amazon product data using Selenium and Python. It navigates through product pages to gather essential details such as names, prices, ratings, and reviews. This tool is designed to streamline the data collection, empowering businesses and researchers to make informed decisions and gain insights efficiently.
 
 
 
-# Features
+## Features
 Automated navigation of Amazon product pages
 Extraction of product names, prices, ratings, and reviews
 Data storage in a structured format (e.g., CSV, Excel)
@@ -13,7 +13,7 @@ Simplified data collection process
 
 
 
-# Skills Utilized
+## Skills Utilized
 Python
 Web Scraping Framework (Selenium)
 Data Extraction
@@ -22,13 +22,13 @@ Document Object Model (DOM)
 
 
 
-# Prerequisites
+## Prerequisites
 Python 3.x
 Selenium
 Webdriver (e.g., ChromeDriver)
 pandas
 
-# License
+## License
 This project is licensed under the MIT License.
 
 
